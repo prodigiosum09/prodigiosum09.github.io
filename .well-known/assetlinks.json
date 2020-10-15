@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.honda.eprogress.v1h",
+    "sha256_cert_fingerprints":
+    ["3E:C3:99:32:49:20:45:BC:4E:3E:60:77:F6:84:26:C7:A3:CF:86:22:36:D9:1B:B7:ED:34:34:2F:B2:8E:30:B5"]
+  }
+}]
